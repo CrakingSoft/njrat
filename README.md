@@ -1,4 +1,5 @@
 # NjRat.0.7D.Danger.Edition
+Password: njrat
 NjRat.0.7D.Danger.Edition
 
 
